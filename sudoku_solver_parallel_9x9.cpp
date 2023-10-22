@@ -1,4 +1,5 @@
 // each thread works on a range of rows in a column-wise fashion Each thread attempts to solve the Sudoku puzzle by filling in the grid cells, with each thread focusing on a specific range of rows
+// 0.002634 seconds
 #include <iostream>
 #include <fstream>
 #include <vector>
